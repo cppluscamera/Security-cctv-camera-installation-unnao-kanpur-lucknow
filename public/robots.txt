@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cppluscamera.github.io/Security-cctv-camera-installation-unnao-kanpur-lucknow/sitemap.xml
